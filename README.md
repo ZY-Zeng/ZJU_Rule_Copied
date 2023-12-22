@@ -35,7 +35,7 @@
 ## 自用食用方法
 
 + 打开订阅转换网址[https://acl4ssr-sub.github.io/](https://acl4ssr-sub.github.io/)（或者在[https://subconverter.org/](https://subconverter.org/)中任选一个）
-+ 把VPN代理商给的**订阅链接**复制到【订阅链接】
++ 把**VPN代理商给的订阅链接**复制到【订阅链接】
 + 把链接[https://raw.githubusercontent.com/ZY-Zeng/ZJU_Rule_Copied/main/Clash/config/ZJU.ini](https://raw.githubusercontent.com/ZY-Zeng/ZJU_Rule_Copied/main/Clash/config/ZJU.ini)复制到【远程配置】
 + 点击生成【订阅链接】
-+ 将**生成的订阅链接**复制到Clash中订阅即可](https://github.com/SubConv/ZJU-Rule/tree/main)
++ 将**生成的订阅链接**复制到Clash中订阅即可
